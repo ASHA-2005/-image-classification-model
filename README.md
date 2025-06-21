@@ -55,3 +55,9 @@ This task helped me gain practical experience in building deep learning models u
 🔹 Conclusion:
 Successfully completing this image classification task allowed me to apply theoretical knowledge of deep learning into practice. The final model demonstrated good performance on the test data and met the requirements stated in the internship instructions. This task has enhanced my skills in machine learning, model development, and problem-solving using Python and TensorFlow, and has laid a strong foundation for future projects involving computer vision and AI.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0a25ea68-ffac-48d0-8481-daa768d83732)
+
+![Image](https://github.com/user-attachments/assets/eda57bfa-ea71-4ead-8975-59a4f73fb9a5)
+
